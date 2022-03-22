@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lower_estimate: 2022-03-21
+  upper_estimate: 2022-03-21
+
+two:
+  lower_estimate: 2022-03-21
+  upper_estimate: 2022-03-21
